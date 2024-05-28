@@ -43,8 +43,8 @@ export default class BlueHaloCalVer extends Plugin {
     }
   }
 
-  getIncrementedVersionCI() {
-    return this.getIncrementedVersion(arguments[0]);
+  getIncrementedVersionCI(...args) {
+    return this.getIncrementedVersion(args[0]);
   }
 
   getIncrement() {
