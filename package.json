@@ -1,6 +1,6 @@
 {
   "name": "@bluehalo/bh-releaser",
-  "version": "1.2.1",
+  "version": "0.0.0",
   "description": "BlueHalo release-it bundle",
   "type": "module",
   "exports": {
